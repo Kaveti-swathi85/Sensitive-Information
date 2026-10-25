@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Web Security CTF</title>
+    <style>
+        body {
+            background: #111;
+            color: #00ff88;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 80px;
+        }
+
+        h1 {
+            font-size: 3em;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to the CTF!</h1>
+
+    <p>Can you find the hidden flag?</p>
+
+    <p>Hint: Sometimes search engines know what users don't.</p>
+
+</body>
+</html>

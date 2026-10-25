@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /hidden-panel/
+
+# Developers:
+# Remember to remove secret directories before deployment.
